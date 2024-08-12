@@ -2,7 +2,9 @@
 
 This project is a full-featured e-commerce application with a **Java** backend, **React** frontend, and **PostgreSQL** database. The project includes an admin panel that provides a user-friendly platform with various features.
 
-- **This project is a collaborative work by Berke Meriç Gür and Onur Sır.:** 
+## Contributors
+
+- **This project is a collaborative work by [Berke Meriç Gür](https://github.com/berkemericgur) and [Onur Sır](https://github.com/onrsir).:** 
 
 ## Features
 
